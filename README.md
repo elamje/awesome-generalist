@@ -1,5 +1,5 @@
 # awesome-generalist
-A repo of the best short courses, books, and lecture series to be a better generalist
+A repo of the best short courses, books, blogs, and lecture series to be a better generalist
 
 # Distributed Systems
 - https://github.com/aphyr/distsys-class
@@ -12,4 +12,5 @@ A repo of the best short courses, books, and lecture series to be a better gener
 - [Clojure for the Brave and True, Higginbotham](https://www.braveclojure.com/introduction/)
 
 # Blogs
-- [Paul Graham][http://paulgraham.com/articles.html]
+- [Paul Graham](http://paulgraham.com/articles.html)
+- [37signals](https://37signals.com)
