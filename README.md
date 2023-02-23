@@ -2,14 +2,14 @@
 A repo of the best short courses, books, blogs, and lecture series to be a better generalist
 
 # Distributed Systems
-- https://github.com/aphyr/distsys-class
-- [Designing Data Intensive Applications, Kleppmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- https://github.com/aphyr/distsys-class (_course_)
+- [Designing Data Intensive Applications, Kleppmann (_book_)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 # AI/ML
-- [Neural Networks: Zero to Hero, Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+- [Neural Networks: Zero to Hero, Andrej Karpathy (_course_)](https://karpathy.ai/zero-to-hero.html)
 
 # Functional Programming
-- [Clojure for the Brave and True, Higginbotham](https://www.braveclojure.com/introduction/)
+- [Clojure for the Brave and True, Higginbotham (_book_)](https://www.braveclojure.com/introduction/)
 
 # Blogs
 - [Paul Graham](http://paulgraham.com/articles.html)
