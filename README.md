@@ -14,3 +14,10 @@ A repo of the best short courses, books, blogs, and lecture series to be a bette
 # Blogs
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [37signals](https://37signals.com)
+
+# Talks
+- [Simple Made Easy, Rich Hickey](https://www.youtube.com/watch?v=LKtk3HCgTa8)
+
+# Programming Languages
+- [Building an OS in Rust](https://os.phil-opp.com)
+- [Clojure for the Brave and True, Higginbotham](https://www.braveclojure.com/introduction/)
