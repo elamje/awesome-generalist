@@ -7,3 +7,9 @@ A repo of the best short courses, books, and lecture series to be a better gener
 
 # AI/ML
 - [Neural Networks: Zero to Hero, Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+
+# Functional Programming
+- [Clojure for the Brave and True, Higginbotham](https://www.braveclojure.com/introduction/)
+
+# Blogs
+- [Paul Graham][http://paulgraham.com/articles.html]
